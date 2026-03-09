@@ -71,27 +71,6 @@ The interactive dashboard built in Power BI includes:
 
 ![Fraud Dashboard](https://github.com/Thanujathota-tech/bank-fraud-detection-analytics/blob/main/Banking%20fraud%20detection/Images/Banking_Fraud_Detection_Dashboard.png)
 
-## Project Structure
-
-bank-fraud-detection-analytics
-│
-├── data
-│   └── banking_fraud_detection.csv
-│
-├── notebooks
-│   └── fraud_detection_analysis.ipynb
-│
-├── dashboard
-│   └── fraud_dashboard.pbix
-|
-├── Queires
-│   └── Fraud_detection.sql
-|
-├── images
-│   └── dashboard_preview.png
-│
-└── README.md
-
 ## Skills Demonstrated
 
 * Data Cleaning & Preparation
